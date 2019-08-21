@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Car</string>
+
+    <string name="slot_one">Car 1</string>
+    <string name="slot_two">Car 2</string>
+    <string name="slot_three">Car 3</string>
+    <string name="box1">Renter name</string>
+    <string name="box2">License plate</string>
+    <string name="box3">Brand Car</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+</resources>
